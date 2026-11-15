@@ -50,3 +50,5 @@ See [docs/event-logic.md](docs/event-logic.md) and [examples/zone_events.py](exa
 CC BY 4.0 (docs), MIT (code).
 
 Drafted with AI assistance, based on hands-on experience
+
+More notes and contact: [fornax.ee](https://www.fornax.ee) · Have a similar problem? Write to info@fornax.ee — happy to help.
